@@ -4,7 +4,7 @@ This app is a clone of the original [evernote](), a note keeping app. This app w
 
 ### Demo Link
 
-link: [https://mhshifat.com](https://mhshifat.com)
+link: [https://evernote-app.netlify.com](https://evernote-app.netlify.com)
 
 ### Technologies Used
 
